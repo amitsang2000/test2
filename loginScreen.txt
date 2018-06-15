@@ -1,3 +1,4 @@
 branch master
 login
 branch1 : added register form
+branch2 : added forgot password
